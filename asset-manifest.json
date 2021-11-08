@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/autofleet-client/static/js/main.457010a3.chunk.js",
+    "main.js.map": "/autofleet-client/static/js/main.457010a3.chunk.js.map",
+    "runtime-main.js": "/autofleet-client/static/js/runtime-main.9db9c6a8.js",
+    "runtime-main.js.map": "/autofleet-client/static/js/runtime-main.9db9c6a8.js.map",
+    "static/js/2.699135b1.chunk.js": "/autofleet-client/static/js/2.699135b1.chunk.js",
+    "static/js/2.699135b1.chunk.js.map": "/autofleet-client/static/js/2.699135b1.chunk.js.map",
+    "index.html": "/autofleet-client/index.html",
+    "static/js/2.699135b1.chunk.js.LICENSE.txt": "/autofleet-client/static/js/2.699135b1.chunk.js.LICENSE.txt",
+    "static/media/logo.7b43f9ea.png": "/autofleet-client/static/media/logo.7b43f9ea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9db9c6a8.js",
+    "static/js/2.699135b1.chunk.js",
+    "static/js/main.457010a3.chunk.js"
+  ]
+}
