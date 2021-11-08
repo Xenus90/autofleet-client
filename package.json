@@ -1,5 +1,6 @@
 {
-  "name": "frontend",
+  "homepage": "https://xenus90.github.io/autofleet-client",
+  "name": "autofleet-client",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -7,6 +8,7 @@
     "@emotion/styled": "^11.3.0",
     "@mui/icons-material": "^5.0.5",
     "@mui/material": "^5.0.6",
+    "@react-google-maps/api": "^2.5.0",
     "@types/node": "^12.20.36",
     "@types/react": "^17.0.34",
     "@types/react-dom": "^17.0.11",
